@@ -6,5 +6,6 @@ int main()
 	printf("List of Pie products\n");
 	printf("New pie News\n");
 	printf("Email List\n");
+	printf("List of people:\n");
 	return 0;
 }
